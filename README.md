@@ -13,13 +13,17 @@ Excel formulas such as the **IF FUNCTION**   and the **VLOOKUPS** were applied t
 Tableau was used as the visualization tool to display relevant information pertaining to the dataset. This also helped to draw conclusions and recommend possible solutions regarding the problem.
 
 # FINDINGS
-- The following are the findings from the analysis from a sample size of 20 most subscribed courses on the Udemy learning platform.
-- The most subscribed course was a free course
-- Most beginner would prefer to subscribe to a free course than a paid course
-- It was found that 75% of the top 20 courses was a Web Development course; that is more people are interested in web development than they are in other courses
-- 30% of the 75% who have the web development course paid for it, leaving the 45% buying the course for free
-- The lowest in sales was the business finance course
-- No subscriber paid for the business finance course across all the four levels. Not many people are interested in the business finance course, let alone paying for it.
+The following insights were derived from analyzing a sample of the 20 most-subscribed courses on the Udemy platform:
+
+- **Free Courses Lead in Subscriptions:** Among the top 20 courses, the most-subscribed course was a free offering, indicating a high demand for free content on Udemy.
+
+- **Preference for Free Courses Among Beginners:** A significant portion of beginner-level subscribers gravitated toward free courses over paid options. This suggests that offering free introductory courses may effectively attract and engage new learners, potentially leading to upselling opportunities for advanced paid courses.
+
+- **Web Development Dominates Interest:** Web Development courses made up 75% of the top 20 courses by subscriptions, showing a clear demand for skills in this field. This trend highlights Web Development as a prime category for Udemy to expand its offerings and improve revenue potential.
+
+- **Paid vs. Free Web Development Courses:** Of the Web Development courses in the top 20, 30% were paid while 45% were free, meaning that a notable proportion of learners are willing to pay for quality content in this domain. Increasing the range of paid offerings in Web Development could cater to this demand.
+
+- **Business Finance Course Has Low Demand:** Courses in Business Finance saw the lowest subscription numbers and generated minimal sales, with no subscribers opting to pay across any of the four levels (Beginner, Intermediate, Expert, and All Levels). This indicates low interest in the subject and suggests the need for either course reformatting or a strategic shift to more in-demand subjects.
 
 # ANALYSIS
 Analysis was carried out using **Pivot Charts** and **Tableau** for visualization.
