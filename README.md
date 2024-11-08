@@ -1,4 +1,4 @@
-# udemy-data-analysis-report
+# UDEMY-DATA-ANALYSIS-REPORT
 
 # PROJECT DESCRIPTION
 Udemy is seeking to discover ways to increase its next quarterly earnings on Udemy's most popular courses having discovered that Web Development is the most popular amongst all four courses uploaded on the platform.
