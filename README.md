@@ -46,7 +46,11 @@ _figure 2.0_
 
 The image below shows the average price for each level.
 
-<img width="647" alt="Screenshot 2024-11-06 at 12 47 58" src="https://github.com/user-attachments/assets/42745bc9-1e33-42f0-aca3-18d07823131d">
+<img width="364" alt="Screenshot 2024-11-08 080615" src="https://github.com/user-attachments/assets/db9efcef-0219-45c2-b92a-49202331234f">
+
+
+<img width="370" alt="Screenshot 2024-11-08 080659" src="https://github.com/user-attachments/assets/63c235bb-460e-4171-aa31-94c0c29df26d">
+
 _figure 3.0_
 
 
