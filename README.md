@@ -33,7 +33,8 @@ Analysis was carried out using **Pivot Charts** and **Tableau** for visualizatio
 The image below shows the sum of the total number of subscribers for each of the subjects from the dataset with a sample size of 20.
 
 <img width="513" alt="Screenshot 2024-11-06 at 12 45 31" src="https://github.com/user-attachments/assets/b62a6b1b-c950-472b-8743-97f2a1d1bbcd">
-`_figure 1.0_`
+
+`figure 1.0`
 
 
 
@@ -42,7 +43,8 @@ The image below shows the sum of the total number of subscribers for each of the
 The figure below shows that web development has the highest number of subscribers, with over 6 million subscribers on the udemy platform, followed by graphic design
 
 <img width="582" alt="Screenshot 2024-11-06 at 12 47 10" src="https://github.com/user-attachments/assets/6c7a0959-88f6-4516-80cc-b2d27142fa20">
-`_figure 2.0_`
+
+`figure 2.0`
 
 
 
@@ -55,7 +57,7 @@ The image below shows the average price for each level.
 
 <img width="370" alt="Screenshot 2024-11-08 080659" src="https://github.com/user-attachments/assets/63c235bb-460e-4171-aa31-94c0c29df26d">
 
-`_figure 3.0_`
+`figure 3.0`
 
 
 
@@ -64,7 +66,8 @@ The image below shows the average price for each level.
 From the analysis below, web development has proven to be the highest in content duration, with an average of almost 6 hours per course. Business finance and graphic design following stealthily behind.
 
 <img width="629" alt="Screenshot 2024-11-06 at 12 55 51" src="https://github.com/user-attachments/assets/1df77027-eda9-457c-97b6-ab112e2b5f4a">
-`_figure 4.0_`
+
+`figure 4.0`
 
 
 
